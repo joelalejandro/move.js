@@ -1,0 +1,13 @@
+{
+  "name": "move.js",
+  "main": "index.js",
+  "homepage": "https://github.com/joelalejandro/move.js",
+  "authors": [ "TJ Holowaychuk <tj@vision-media.ca>" ],
+  "description": "Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant.",
+  "moduleType": [ "amd", "es6" ],
+  "keywords": [ "animation", "css3" ],
+  "license": "MIT",
+  "dependencies": {
+ 
+  }
+}
